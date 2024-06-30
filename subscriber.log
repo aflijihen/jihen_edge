@@ -1,0 +1,38 @@
+2024-05-21 18:31:35,413 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-05-21 18:32:15,421 - INFO - Use pytorch device_name: cpu
+2024-05-22 10:01:39,287 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-05-22 10:01:49,780 - INFO - Use pytorch device_name: cpu
+2024-05-22 10:03:12,478 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-05-22 10:03:23,333 - INFO - Use pytorch device_name: cpu
+2024-05-22 10:09:32,545 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2024-05-22 10:09:40,492 - INFO - Use pytorch device_name: cpu
+2024-05-22 10:09:44,776 - INFO - Loading faiss with AVX512 support.
+2024-05-22 10:09:44,776 - INFO - Could not load library with AVX512 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx512'")
+2024-05-22 10:09:44,776 - INFO - Loading faiss with AVX2 support.
+2024-05-22 10:09:46,832 - INFO - Successfully loaded faiss with AVX2 support.
+2024-05-22 10:09:47,049 - WARNING - Error loading file handbook\~$c_mariem.docx: File is not a zip file
+2024-05-22 10:09:56,210 - INFO - MQTT client started and connected to broker at mqtt.eclipseprojects.io
+2024-05-22 10:09:56,215 - INFO - Subscribed to topic: Spirulina_Edge
+2024-05-22 10:10:00,627 - INFO - Received data: {'temperature': 23.0, 'Ph_value': 11.0, 'water_level': 2.0, 'conductivity': 15.0, 'brightness': 10.0}
+2024-05-22 10:10:40,827 - INFO - Retrying request to /chat/completions in 0.904757 seconds
+2024-05-22 10:10:51,996 - INFO - Retrying request to /chat/completions in 1.828780 seconds
+2024-05-22 10:11:15,738 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-22 10:11:18,873 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-22 10:11:19,138 - INFO - Received data: {'temperature': 23.0, 'Ph_value': 11.0, 'water_level': 2.0, 'conductivity': 15.0, 'brightness': 10.0}
+2024-05-22 10:11:23,441 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-22 10:11:32,061 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-22 10:11:34,008 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-22 10:11:34,163 - INFO - Received data: {'temperature': 23.0, 'Ph_value': 11.0, 'water_level': 2.0, 'conductivity': 15.0, 'brightness': 10.0}
+2024-05-22 10:11:38,449 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-22 10:11:47,012 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-22 10:11:59,905 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-22 10:12:04,236 - INFO - Subscribed to topic: Spirulina_Edge
+2024-05-22 10:12:04,909 - INFO - Received data: {'temperature': 23.0, 'Ph_value': 11.0, 'water_level': 2.0, 'conductivity': 15.0, 'brightness': 10.0}
+2024-05-22 10:12:10,113 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-22 10:12:20,085 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-22 10:12:23,670 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-22 10:12:25,721 - INFO - Received data: {'temperature': 23.0, 'Ph_value': 11.0, 'water_level': 2.0, 'conductivity': 15.0, 'brightness': 10.0}
+2024-05-22 10:12:39,261 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-22 10:12:45,812 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-05-22 10:13:04,039 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
